@@ -1,0 +1,34 @@
+Final Project:
+
+Approx. time to complete: 33 Hours
+
+Willem A. (Vlakkies) Schreuder
+CSCI4229/5229 Fall 2017
+
+Tanner Tracy
+CSCI4229 Fall 2017
+
+The thing I'm particularly proud of in this assignment is the inclusion of a particle rain effect. This project doesn't have a ton in it, but a variety of other models I meticulously made by hand in OpenGL can be found within the house. 
+
+Improvements made since the review:
+Inclusion of Rain effect
+Inclusion of Day/Night Cycle
+Inclusion of Lamp Model
+Inclusion of Sofa Model
+Inclusion of Table Model
+Inclusion of Bed Model
+Fixed controls
+
+To Run: 
+	navigate to the directory that each file is located from a terminal
+	run "make"
+	run ./finalproject
+
+Key bindings
+  W	     Move North
+  A          Move West
+  S          Move South
+  D          Move East
+  Mouse      Look around
+  ESC        Exit
+
